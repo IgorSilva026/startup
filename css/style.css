@@ -215,3 +215,10 @@
 
   :focus-visible { outline: 2px solid var(--deep); outline-offset: 2px; }
   @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+
+/* Logo */
+  .logo{
+    width: 30px;
+    height: 30px;
+  }
